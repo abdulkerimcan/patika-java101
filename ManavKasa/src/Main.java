@@ -27,5 +27,6 @@ public class Main {
         toplam += kilo * patlican;
 
         System.out.println("Toplam Tutar " + toplam);
+
     }
 }
